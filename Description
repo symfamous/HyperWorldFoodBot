@@ -1,0 +1,20 @@
+After Running:
+Edit HyperWorldFoodBot/.env and add your Telegram Bot Token from @BotFather
+.
+Start the bot: cd HyperWorldFoodBot && node index.js
+Open Telegram, find your bot, and send your Hyperbolic API key.
+Prerequisites
+Node.js (v14+ recommended)
+A Telegram account
+A Hyperbolic API key
+
+
+Manual Setup (Alternative)
+Clone: git clone https://github.com/symfamous/HyperWorldFoodBot.git
+
+Install: cd HyperWorldFoodBot && npm install
+
+Configure .env with your TELEGRAM_BOT_TOKEN.
+
+Run: node index.js
+
