@@ -9,3 +9,4 @@ Run this command in your terminal (requires Node.js installed):
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/symfamous/HyperWorldFoodBot/main/setup.sh)"
 
+Please read [Details.md](Details.md) file for more details of how to create fully.
